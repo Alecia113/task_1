@@ -31,6 +31,7 @@ use scrapy's items container to record data
 # Address of the generated file:
 task_1/DmoTest/items.csv
 task_1/DmoTest/Separate categories.csv
+task_1/DmoTest/text without '\' .csv
 
 # Parse file address：
 task_1/DmoTest/DmoTest/spiders/dmoz_spider.py
