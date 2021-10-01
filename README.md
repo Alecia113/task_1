@@ -24,5 +24,6 @@ use scrapy's items container to record data
 
 # Create spider file to store results
 <p>dmoz_spider.py</p>
+
 # Create the csv file in cmd.
 <p> scrapy crawl dmoz -o items.csv -t csv </p>
