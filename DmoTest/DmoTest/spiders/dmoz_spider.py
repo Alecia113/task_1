@@ -4,7 +4,7 @@
 from scapy.all import *
 import scrapy
 from ..items import DmozItem 
-import bs4
+
 
 class DmozSpider(scrapy.Spider):
     name = "dmoz"                   
