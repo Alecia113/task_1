@@ -13,3 +13,5 @@ First open cmd. to create the scrapy project
 
 <img src="https://github.com/Alecia113/task_1/blob/main/start.png" width="500px"/>
 
+cd DmoTest
+scrapy genspider www.dmoztools.net/
