@@ -29,9 +29,9 @@ use scrapy's items container to record data
 <p> scrapy crawl dmoz -o items.csv -t csv </p>
 
 # Address of the generated file:
-task_1/DmoTest/items.csv
-task_1/DmoTest/Separate categories.csv
-task_1/DmoTest/text without '/' .csv
+<p>task_1/DmoTest/items.csv</p>
+<p>task_1/DmoTest/Separate categories.csv</p>
+<p>task_1/DmoTest/text without '/' .csv</p>
 
 # Parse file address：
 task_1/DmoTest/DmoTest/spiders/dmoz_spider.py
