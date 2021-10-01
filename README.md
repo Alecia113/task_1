@@ -14,5 +14,15 @@ Using http://dmoztools.net.
 
 <img src="https://github.com/Alecia113/task_1/blob/main/start.png" width="500px"/>
 
-cd DmoTest
-scrapy genspider www.dmoztools.net/
+<p>cd DmoTest </p>
+<p> scrapy genspider www.dmoztools.net/ </p>
+
+# Get data
+use scrapy's items container to record data
+<b><p> Use cmd to verify the information obtained </p></b>
+<p>scrapy shell "http://www.dmoztools.net"</p>
+
+# Create spider file to store results
+<p>dmoz_spider.py</p>
+# Create the csv file in cmd.
+<p> scrapy crawl dmoz -o items.csv -t csv </p>
