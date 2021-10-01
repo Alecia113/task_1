@@ -10,3 +10,5 @@ Using http://dmoztools.net.
 
 <h2> Use cmd and python code to implement the function.</h2>
 First open cmd. to create the scrapy project
+
+<img src="https://github.com/usydnlp/COMP5046/blob/main/img/COMP5046_A1_sentiment.png" width="500px"/>
