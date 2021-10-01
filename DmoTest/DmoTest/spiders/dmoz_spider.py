@@ -11,7 +11,7 @@ class DmozSpider(scrapy.Spider):
     allowed_domains = ['http://www.dmoztools.net']     
     start_urls = ['http://www.dmoztools.net']  #Can use a for loop to add sites 
 
-
+    #Separate the category
     def parse(self,response):          #parse is the default method for handling responses.
         items = []
         Category = response.xpath('//div[@class="outer-cats"]//h2/a/@href').extract()
