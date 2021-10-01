@@ -27,3 +27,9 @@ use scrapy's items container to record data
 
 # Create the csv file in cmd.
 <p> scrapy crawl dmoz -o items.csv -t csv </p>
+
+# Address of the generated file:
+task_1/DmoTest/items.csv
+
+# Parse file address：
+task_1/DmoTest/DmoTest/spiders/dmoz_spider.py
