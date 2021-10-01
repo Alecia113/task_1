@@ -9,6 +9,7 @@ Using http://dmoztools.net.
 
 
 <h2> Use cmd and python code to implement the function.</h2>
+<b> Working environment: Anaconda-Jupyter </b>
 First open cmd. to create the scrapy project
 
 <img src="https://github.com/Alecia113/task_1/blob/main/start.png" width="500px"/>
